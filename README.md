@@ -1,6 +1,6 @@
-WELCOME TO MY PROFILE!👋
+###WELCOME TO MY PROFILE!👋
 
-Hello! I am Giri a B.Com graduate and aspiring ACCA professional, seeking an internship opportunity in account opening and client servicing at Zerodha. I am eager to apply my skills in finance, Excel, and effective communication to support onboarding operations and contribute to the growth of a leading fintech firm.
+<h4>Hello! I am Giri a B.Com graduate and aspiring ACCA professional, seeking an internship opportunity in account opening and client servicing at Zerodha. I am eager to apply my skills in finance, Excel, and effective communication to support onboarding operations and contribute to the growth of a leading fintech firm.</h4>
 
 My goal is to gain hands-on experience in the dynamic world of financial technology, enhance my professional capabilities, and add value to the organization through dedication and a strong work ethic.
 
