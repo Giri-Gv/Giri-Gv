@@ -8,21 +8,14 @@ My goal is to gain hands-on experience in the dynamic world of financial technol
 
 <p>
   <!-- MS Office -->
-  <img src="https://1000logos.net/wp-content/uploads/2023/04/Microsoft-Office-logo.jpg" alt="MS Office" width="48" height="48"/>
-  <!-- ERP Tally (replace with an appropriate link if available) -->
-  <img src="https://www.pngkey.com/png/full/24-244212_tally-with-gst-course-tally-erp-9-logo.png" alt="ERP Tally" width="48" height="48"/>
-  <!-- Advanced Excel -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" alt="Advanced Excel" width="48" height="48"/>
-</p>
-
-
-<p>
-  <!-- MS Office -->
   <img src="https://1000logos.net/wp-content/uploads/2023/04/Microsoft-Office-logo.jpg" alt="MS Office" width="48" height="48" style="margin-right:15px;"/>
+  <p>
   <!-- ERP Tally -->
-  <img src="https://www.pngkey.com/png/full/24-244212_tally-with-gst-course-tally-erp-9-logo.png" width="48" height="48" style="margin-right:15px;"/>
+  <img src="https://www.pngkey.com/png/full/24-244212_tally-with-gst-course-tally-erp-9-logo.png" width="48" height="48" style="margin-right:15px;"/> </p>
+  <P
   <!-- Advanced Excel -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" alt="Advanced Excel" width="48" height="48"/>
+  </P>
 </p>
       
      
