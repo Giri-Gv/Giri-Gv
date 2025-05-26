@@ -8,7 +8,7 @@ My goal is to gain hands-on experience in the dynamic world of financial technol
 
 <p>
   <!-- MS Office -->
-  <img src="https://1000logos.net/wp-content/uploads/2023/04/Microsoft-Office-logo.jpg" alt="MS Office" width="48" height="48" style="margin-right:15px;"/>
+  <img src="https://1000logos.net/wp-content/uploads/2023/04/Microsoft-Office-logo.jpg" alt="MS Office" width="38" height="38" style="margin-right:15px;"/>
 
   <!-- ERP Tally -->
   <img src="https://www.pngkey.com/png/full/24-244212_tally-with-gst-course-tally-erp-9-logo.png" width="48" height="48" style="margin-right:15px;"/> 
