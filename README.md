@@ -4,5 +4,9 @@ Hello! I am Giri a B.Com graduate and aspiring ACCA professional, seeking an int
 
 My goal is to gain hands-on experience in the dynamic world of financial technology, enhance my professional capabilities, and add value to the organization through dedication and a strong work ethic.
 
-![ACCA Logo](images/acca-logo.png)
+<!-- Example using a local file -->
+![ACCA Logo](assets/acca-logo.png)
+
+<!-- Or using an image URL -->
+![ACCA Logo]((https://tse1.mm.bing.net/th?id=OIP.DSwkt7Qia7L84f1uXhrfmgHaHa&pid=Api&P=0&h=180))
   
