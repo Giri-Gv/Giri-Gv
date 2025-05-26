@@ -10,7 +10,7 @@ My goal is to gain hands-on experience in the dynamic world of financial technol
   <!-- MS Office -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Microsoft_Office_Logo_%282013-2019%29.svg" alt="MS Office" width="48" height="48"/>
   <!-- ERP Tally (replace with an appropriate link if available) -->
-  <img src="assets/tally-logo.svg" alt="ERP Tally" width="48" height="48"/>
+  <img src="https://1000logos.net/wp-content/uploads/2023/04/Microsoft-Office-logo.jpg" alt="ERP Tally" width="48" height="48"/>
   <!-- Advanced Excel -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" alt="Advanced Excel" width="48" height="48"/>
 </p>
